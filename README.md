@@ -1,4 +1,4 @@
-### geosites_antifilter_ru
+### geosites_ru
 
 Geosites.dat для v2ray/Clash Meta на основе данных zapret-info и с помощью:
 
